@@ -7,7 +7,8 @@ Rozgrywka kończy się odkryciem bomby (przegrana) lub odsłonięciem wszystkich
 
 ## Zawartość repozytorium:
 - `Minesweeper.sln` – plik projektu Visual Studio
-- folder `src/` – pliki źródłowe w języku C#
+- `Minesweeper.csproj` – plik projektu C#
+- `Program.cs` – główny plik z kodem
 
 ## Funkcjonalności:
 - losowe rozmieszczanie bomb
@@ -41,7 +42,8 @@ The game ends when a bomb is uncovered (loss) or when all safe fields are uncove
 
 ## Repository contents:
 - `Minesweeper.sln` – Visual Studio project file
-- `src/` folder – C# source files
+- `Minesweeper.csproj` – C# project file
+- `Program.cs` – main source file
 
 ## Features:
 - Random bomb placement
